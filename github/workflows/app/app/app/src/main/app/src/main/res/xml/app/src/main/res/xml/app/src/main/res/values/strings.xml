@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Translator Keyboard</string>
+    <string name="accessibility_desc">স্ক্রিনের বিদেশি মেসেজ স্বয়ংক্রিয়ভাবে বাংলায় অনুবাদ করে দেখানোর জন্য এই অনুমতি প্রয়োজন।</string>
+</resources>
